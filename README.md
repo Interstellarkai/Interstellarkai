@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 		<img alt="KaiSheng's Instagram" src="https://icon-library.com/images/instagram-small-icon/instagram-small-icon-12.jpg"  width="30px"/>
 	</a>
 	<a href="https://www.tumblr.com/blog/interstellar-kai-blog">
-		<img alt="KaiSheng's Tumblr" src="https://cdn-icons-png.flaticon.com/512/145/145811.png" width="30px/>
+		<img alt="KaiSheng's Tumblr" src="https://cdn-icons-png.flaticon.com/512/145/145811.png" width="30px"/>
 	</a>
 </p>
 

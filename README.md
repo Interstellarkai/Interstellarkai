@@ -106,6 +106,6 @@ Here are some ideas to get you started:
 ```
 
 <p float="center">
-	<img src="https://github-readme-stats-git-master.akanz1.vercel.app/api?username=interstellarkai&count_private=true&show_icons=true&hide_border=true&locale=en&custom_title=&title_color=142d70&icon_color=142d70&cache_seconds=60" width="440" />
-	<img src="https://github-readme-stats-git-master.akanz1.vercel.app/api/top-langs/?username=interstellarkai&layout=compact&hide_border=true&title_color=142d70" width="430"/>
+	<img src="https://github-readme-stats-git-master.akanz1.vercel.app/api?username=interstellarkai&count_private=true&show_icons=true&hide_border=true&locale=en&custom_title=&title_color=142d70&icon_color=142d70&cache_seconds=60" width="405" />
+	<img src="https://github-readme-stats-git-master.akanz1.vercel.app/api/top-langs/?username=interstellarkai&layout=compact&hide_border=true&title_color=142d70" width="395"/>
 </p>
